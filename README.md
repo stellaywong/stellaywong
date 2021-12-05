@@ -1,3 +1,7 @@
+<a href="https://stella-wong.com/">
+  <img src="https://github.com/stellaywong/stellaywong/blob/main/stellaywong_github_banner.jpg" alt="Header" height="300"/>
+</a>  
+
 ## Hi there 👋
 
 My name is Stella and I'm a software engineer currently studying Data Science at Columbia. You can find me on [![LinkedIn][1a]][1].
