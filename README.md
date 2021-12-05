@@ -8,7 +8,7 @@ My name is Stella and I'm a software engineer currently studying Data Science at
 
 ## 🚀 GitHub Stats and Projects
 <a href="https://github.com/stellaywong/stellaywong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stellaywong&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues&title_color=ffffff&text_color=ffffff&icon_color=ee475b&bg_color=34365d&line_height=30"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stellaywong&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=true&hide=prs,issues&title_color=ffffff&text_color=ffffff&icon_color=ee475b&bg_color=34365d&line_height=30"/>
 </a>    
 
 <a href="https://github.com/stellaywong/stellaywong">
