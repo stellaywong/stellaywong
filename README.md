@@ -30,5 +30,5 @@ My name is Stella and I'm a software engineer currently studying Data Science at
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ee475b)
 
 <!-- Other Accounts -->
-[1]: https://www.linkedin.com/in/stellayywong/
+[1]: https://www.linkedin.com/in/stella-y-wong/
 [1a]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
